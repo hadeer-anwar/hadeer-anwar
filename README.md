@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hadeer Anwar and I'm a frontend react developer</p>
+<p align="left">My name is Hadeer Anwar and I'm a MERN Stack developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN stack development<br>🎯 I am pupil at codeforces.com and I was participate on ECPC .<br>🎲 Fun fact: I am interesting in playing table tennis</p>
+<p align="left">📚 I'm studying computer science at Faculty of Computers and AI at USC <br>🎯 I am pupil at codeforces.com and I was participate on ECPC .<br>🎲 Fun fact: I am interesting in playing table tennis</p>
 
 ###
 
