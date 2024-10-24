@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm studying computer science at Faculty of Computers and AI at USC <br>🎯 I am pupil at codeforces.com and I was participate on ECPC .<br>🎲 Fun fact: I am interesting in playing table tennis</p>
+<p align="left">📚 I'm studying computer science at Faculty of Computers and AI at USC <br>🎯 I am interisting in competitive programming and i'm pupil at codeforces.com and I was participate on ECPC .<br>🎲 Fun fact: I am interesting in playing table tennis</p>
 
 ###
 
