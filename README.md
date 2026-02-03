@@ -68,13 +68,7 @@
   </a>
   <a href="mailto:hadeershaaban77@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" title="Email" />
-  </a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" title="GitHub" />
-  </a>
 </div>
 
 ###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hadeer-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
