@@ -14,16 +14,6 @@
 
 ###
 
-<h2 align="left">🚀 Professional Experience</h2>
-
-### **Lo.La Beauty – Full Stack Developer** (2025 – Present)
-
-### **Technical Mentoring**
-- **Physical Instructor** – Digital Egypt Cubs Initiative (Summer 2025)
-- **Volunteer Instructor** – FCAI USC ICPC Community (2023-2024)
-
-###
-
 <h2 align="left">🛠️ Tech Stack</h2>
 
 ###
@@ -79,7 +69,6 @@
   <a href="mailto:hadeershaaban77@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" title="Email" />
   </a>
-  <a href="https://github.com/hadeer-anwar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" title="GitHub" />
   </a>
 </div>
