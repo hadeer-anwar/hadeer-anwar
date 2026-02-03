@@ -1,64 +1,102 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Hello! I'm Hadeer Anwar</h1>
 
 ###
 
-<p align="left">My name is Hadeer Anwar and I'm a MERN Stack developer</p>
+<h2 align="center">💻 Full Stack Developer | React • Next.js • Node.js </h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">
+🚀 <strong>Currently:</strong> Full Stack Developer at Lo.La Beauty<br>
+🎓 <strong>Education:</strong> Computer Science at Sadat University (GPA: 3.66/4.0)<br>
+📍 <strong>Location:</strong> Sadat City, Egypt<br>
+🏓 <strong>Fun fact:</strong> Competitive programmer & table tennis player
+</p>
 
 ###
 
-<p align="left">📚 I'm studying computer science at Faculty of Computers and AI at USC <br>🎯 I am interisting in competitive programming and i'm pupil at codeforces.com and I was participate on ECPC .<br>🎲 Fun fact: I am a table tennis player </p>
+<h2 align="left">🚀 Professional Experience</h2>
+
+### **Lo.La Beauty – Full Stack Developer** (2025 – Present)
+
+### **Technical Mentoring**
+- **Physical Instructor** – Digital Egypt Cubs Initiative (Summer 2025)
+- **Volunteer Instructor** – FCAI USC ICPC Community (2023-2024)
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-
-</div>
-
-###
-
-<h2 align="left">Contact me</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/hadeer-anwar-1aa55724a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+</div>
+
+###
+
+<h2 align="left">🏆 Notable Achievements</h2>
+
+- **🎯 Top 30** – Egypt AI & IoT Challenge 2025 (AI Fitness API Project)
+- **🏆 ECPC Participant** – Competitive Programming
+- **📊 3.66/4.0 GPA** – Bachelor of Computer Science (Expected 2025)
+- **👨‍🏫 Technical Instructor** – DECI Summer Camp 2025
+
+###
+
+<h2 align="left">📂 Graduation Project</h2>
+
+### **[AI Fitness API](https://github.com/hadeer-anwar/graduation-project-exercises-app)**
+Scalable RESTful API with Node.js & Express.js for exercise tracking and performance metrics
+
+### **[Fitness Admin Dashboard](https://github.com/Aalaa-magdy/fitify-dashboard)**
+Dynamic dashboard with React.js & Tailwind CSS for visualizing performance metrics
+
+
+###
+
+<h2 align="left">📬 Connect With Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/hadeer-anwar-1aa55724a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn" />
   </a>
-  <a href="hadeershaabaan77@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:hadeershaaban77@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" title="Email" />
+  </a>
+  <a href="https://github.com/hadeer-anwar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" title="GitHub" />
   </a>
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hadeer-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
