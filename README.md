@@ -8,8 +8,7 @@
 
 <p align="left">
 🚀 <strong>Currently:</strong> Full Stack Developer at Lo.La Beauty<br>
-🎓 <strong>Education:</strong> Computer Science at Sadat University (GPA: 3.66/4.0)<br>
-📍 <strong>Location:</strong> Sadat City, Egypt<br>
+🎓 <strong>Education:</strong> Computer Science at Sadat City University <br>
 🏓 <strong>Fun fact:</strong> Competitive programmer & table tennis player
 </p>
 
@@ -65,16 +64,6 @@
 - **🏆 ECPC Participant** – Competitive Programming
 - **📊 3.66/4.0 GPA** – Bachelor of Computer Science (Expected 2025)
 - **👨‍🏫 Technical Instructor** – DECI Summer Camp 2025
-
-###
-
-<h2 align="left">📂 Graduation Project</h2>
-
-### **[AI Fitness API](https://github.com/hadeer-anwar/graduation-project-exercises-app)**
-Scalable RESTful API with Node.js & Express.js for exercise tracking and performance metrics
-
-### **[Fitness Admin Dashboard](https://github.com/Aalaa-magdy/fitify-dashboard)**
-Dynamic dashboard with React.js & Tailwind CSS for visualizing performance metrics
 
 
 ###
