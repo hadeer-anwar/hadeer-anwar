@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">💻 Full Stack Developer | Node.js • Nest js • Next.js •  </h2>
+<h2 align="center">💻 Full Stack Developer | Node js • Nest js • Next js •  </h2>
 
 ###
 
